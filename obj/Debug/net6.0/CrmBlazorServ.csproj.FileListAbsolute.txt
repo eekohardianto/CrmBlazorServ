@@ -19,6 +19,8 @@ C:\Users\TAXI\project\CrmBlazorServ\bin\Debug\net6.0\Microsoft.EntityFrameworkCo
 C:\Users\TAXI\project\CrmBlazorServ\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\TAXI\project\CrmBlazorServ\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
 C:\Users\TAXI\project\CrmBlazorServ\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\TAXI\project\CrmBlazorServ\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\TAXI\project\CrmBlazorServ\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
 C:\Users\TAXI\project\CrmBlazorServ\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
 C:\Users\TAXI\project\CrmBlazorServ\bin\Debug\net6.0\SQLitePCLRaw.core.dll
 C:\Users\TAXI\project\CrmBlazorServ\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
@@ -57,5 +59,3 @@ C:\Users\TAXI\project\CrmBlazorServ\obj\Debug\net6.0\CrmBlazorServ.dll
 C:\Users\TAXI\project\CrmBlazorServ\obj\Debug\net6.0\ref\CrmBlazorServ.dll
 C:\Users\TAXI\project\CrmBlazorServ\obj\Debug\net6.0\CrmBlazorServ.pdb
 C:\Users\TAXI\project\CrmBlazorServ\obj\Debug\net6.0\CrmBlazorServ.genruntimeconfig.cache
-C:\Users\TAXI\project\CrmBlazorServ\bin\Debug\net6.0\MySqlConnector.dll
-C:\Users\TAXI\project\CrmBlazorServ\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll

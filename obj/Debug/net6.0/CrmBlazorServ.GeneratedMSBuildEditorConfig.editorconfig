@@ -19,8 +19,20 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/TAXI/project/CrmBlazorServ/Pages/AddEmployee.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkRW1wbG95ZWUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/TAXI/project/CrmBlazorServ/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TAXI/project/CrmBlazorServ/Pages/EditEmployee.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdEVtcGxveWVlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TAXI/project/CrmBlazorServ/Pages/Employees.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/TAXI/project/CrmBlazorServ/Pages/FetchData.razor]
@@ -29,6 +41,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/TAXI/project/CrmBlazorServ/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TAXI/project/CrmBlazorServ/Pages/RemoveEmployee.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVtb3ZlRW1wbG95ZWUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/TAXI/project/CrmBlazorServ/Shared/LoginDisplay.razor]

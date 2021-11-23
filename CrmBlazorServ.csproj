@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
-    <Nullable>enable</Nullable>
+    <Nullable>disable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <UserSecretsId>aspnet-CrmBlazorServ-0B643C40-99F0-48F8-BE67-70B9A5085168</UserSecretsId>
   </PropertyGroup>
